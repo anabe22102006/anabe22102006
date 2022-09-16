@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center"> Olá! meu nome é Ana beatriz</h1>
 
-<!--
-**anabe22102006/anabe22102006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou aluno do  **_Colégio Estadual do Campo Cerrado das Cinzas_** 
 
-Here are some ideas to get you started:
+- ### Estou aprendendo...
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://editor.p5js.org/)
+[![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ### Contatos
+
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhia-almeidah)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ana.azevedo.almeida@escola.pr.gov.br)
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
